@@ -30,5 +30,5 @@ Download and install scikit-learn
 * data/* - Training and test input data
 * scripts/* - Python scripts to build linear regression models and get predictions
 * results/ - Directory for result files
-* analytics/ - Directory with Analytics Cloud load scripts
+* analytics/ - Directory with Einstein Analytics load scripts
 * chatter/ - Directory with sample scripts to send alerts to Salesforce Chatter
