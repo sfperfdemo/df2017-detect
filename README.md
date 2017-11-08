@@ -28,7 +28,7 @@ Download and install scikit-learn
 ## Files
 * detect.sh - The main script to run all steps
 * data/* - Training and test input data
-* scripts/* - Python scripts to build model and get predictions
+* scripts/* - Python scripts to build linear regression models and get predictions
 * results/ - Directory for result files
 * analytics/ - Directory with Analytics Cloud load scripts
 * chatter/ - Directory with sample scripts to send alerts to Salesforce Chatter
